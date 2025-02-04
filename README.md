@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sawakishuto&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 ## my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,python,js,html,css,jquery,nextjs,firebase,github,ruby,react,ts" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,python,js,html,css,jquery,nextjs,firebase,github,ruby,react,ts,rails,mysql,sqlite,docker" />
 
 </p>
 
